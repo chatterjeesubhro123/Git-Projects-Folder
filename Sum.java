@@ -39,5 +39,10 @@ git add |->staging area--|
 // git add . -> means it adds al files to the staging environment
 
 // if we want to go to any particular commit then we should write
-// git checkout <commit hash code/branch name>
+// git checkout <commit hash code/branch name> for coming to the initial position
+
+// git switch - -> to abort the operation of checkout and comeback to the current position of the files
+
+// we can use git checkout master as well
+
 
