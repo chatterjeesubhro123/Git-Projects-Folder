@@ -36,4 +36,8 @@ git add |->staging area--|
 
 // when we use commit,every time new hex code generated and shown on the browser
 
+// git add . -> means it adds al files to the staging environment
+
+// if we want to go to any particular commit then we should write
+// git checkout <commit hash code/branch name>
 
