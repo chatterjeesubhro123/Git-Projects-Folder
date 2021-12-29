@@ -46,3 +46,5 @@ git add |->staging area--|
 // we can use git checkout master as well
 
 
+// now after adding the details from the subhro/multiply to the dev branch
+// now we will be merfging the dev brancxh to the main master branch by using git merge <branchname> here it is dev
