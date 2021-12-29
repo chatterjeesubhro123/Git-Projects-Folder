@@ -8,3 +8,5 @@ this is about learning git through the anuj bhaiya video and all details and bra
 <!--git branch -M master  for push-->
 <!-- git push -u origin master  it pushes all the changes made in the folder to the origin-->
 <!--  git push -u where to push,what to push-->
+if we want to colaborate then we should enable from settings
+wecan push new branches in github by going to that branch and using git push -u origin <branchname>
