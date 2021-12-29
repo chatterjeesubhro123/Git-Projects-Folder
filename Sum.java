@@ -44,5 +44,17 @@ git add |->staging area--|
 // git switch - -> to abort the operation of checkout and comeback to the current position of the files
 
 // we can use git checkout master as well
+// git branch -> branches are shown from the master
+// checkout is for searching elements from branch to another branch
 
+// from master branch we can create multiple branches,generally branches are there for going deep to create a new file in any branch,to come back to master we must use -> git checkout master
+
+// to create branch we use -> git branch <branchname>
+
+// to checkout in the branch we use -> git checkout <branchname>
+
+// to create branch and checkout in it at the same time we use -> git checkout -b <name/branchname>
+// we can use it as Subhro/multiply or only multiply,the first one is useful for maintaininga  special format
+
+// so whatever change is made on any branch is not known to another branch
 
