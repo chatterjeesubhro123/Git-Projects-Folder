@@ -58,7 +58,7 @@ git add |->staging area--|
 
 // so whatever change is made on any branch is not known to another branch
 
-// after creatinga nd updating the files in the branch subhro/multiply,now we will take the branch to the "dev" branch,so we will go to the dev branch and use git merge <branch name>
+// after creating and updating the files in the branch subhro/multiply,now we will take the branch to the "dev" branch,so we will go to the dev branch and use git merge <branch name>
 
 // so now the subhro/multiply branch will be merged in the dev branch
 
