@@ -64,3 +64,27 @@ git add |->staging area--|
 
 // now after adding the details from the subhro/multiply to the dev branch
 // now we will be merfging the dev brancxh to the main master branch by using git merge <branchname> here it is dev
+
+
+// if we want some file to not be tracked by git and be ignored,then we use the file to be stored in the gitignore
+
+// suppose we want a secret key to not be traced by the git environmenta nd seen by all,then we use generally gitignore to stop git from tracking a file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
