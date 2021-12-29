@@ -10,3 +10,5 @@ this is about learning git through the anuj bhaiya video and all details and bra
 <!--  git push -u where to push,what to push-->
 if we want to colaborate then we should enable from settings
 wecan push new branches in github by going to that branch and using git push -u origin <branchname>
+<!--  we can attach collaborator as well,for helping to code-->
+<!--   open source contribution-means taking other person's codes and implementing to my own project -->
